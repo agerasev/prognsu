@@ -3,7 +3,7 @@ title:               NSU Programming
 tagline:             'Программирование на C++ и Python'
 description:         'Сайт курса "Программирование на C++ и Python" для студентов ФФ НГУ.'
 url:                 http://nsu-programming.github.io
-baseurl:             ''
+baseurl:             '/prognsu/'
 repo:                https://github.com/NSU-Programming/NSU-Programming.github.io
 
 # About/contact
