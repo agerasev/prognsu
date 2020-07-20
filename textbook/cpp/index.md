@@ -1,7 +1,7 @@
 ---
 title: Язык C++
+menu: textbook-cpp
 ---
-# {{ page.title }}
 
 * [Работа с потоками ввода-вывода](io)
 * [Строки в C++](string)
@@ -9,7 +9,7 @@ title: Язык C++
 * [Эффективная передача параметров в функцию](function-parameters)
 * [Итераторы](iterators)
 * [Алгоритмы стандартной библиотеки C++](algorithms)
-* [Библиотека `numeric`](numeric)
+* [Библиотека numeric](numeric)
 * [Классы](classes)
 * [Наследование](inheritance)
 * [Динамическое выделение памяти](dynamic-memory)

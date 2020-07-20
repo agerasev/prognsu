@@ -1,17 +1,7 @@
 ---
 title: Эффективная передача параметров в функцию
+menu: textbook-cpp
 ---
-
-<ul>
-{% for item in site.data.textbook.toc %}
-    <li class="{% if item.url == page.url %}active{% endif %}">
-      <a href="{{ item.url }}">{{ item.title }}</a>
-    </li>
-{% endfor %}
-</ul>
-
-
-# {{ page.title }}
 
 Давайте напишем функцию `add_item`, которая принимает контейнер `vector<string>` и добавляет в конец контейнера новый элемент. Мы могли бы начать со следующего кода:
 
